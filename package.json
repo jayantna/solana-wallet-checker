@@ -1,0 +1,14 @@
+{
+  "name": "solana-wallet-checker",
+  "version": "1.0.0",
+  "description": "Below is a Python script using the Solana Python API (solana-py) to create a wallet, derive multiple addresses from it, and check the balances of those addresses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.98.0"
+  }
+}
